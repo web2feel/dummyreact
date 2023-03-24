@@ -25,7 +25,7 @@ function Entry() {
         become a popular aspect of the game and a lucrative place for creators
         to make money. Epic is pitching UEFN as a tool for both experienced
         Unreal Engine developers and creators who are looking to take the next
-        step from Fortnite Creatives in-game editing tools.
+        step from Fortnite Creatives in-game editing.
       </p>
     </div>
   );
